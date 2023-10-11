@@ -16,5 +16,8 @@ this displays the current directory in long formart users id and  hiden files
 ### [6-firstdirectory] [6-firstdirectory]
 this creates a directory   by the name firstdirectort in the tmp directory
 
+### [7-movethatfile][7-movethatfile]
+this moves betty file to my_first_directory
+
 
 
