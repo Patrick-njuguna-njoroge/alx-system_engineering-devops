@@ -10,4 +10,8 @@ this is a shell script that  changes the working directory to the user’s home 
 ### [3-listfiles][3-listfiles]
 this displays the current directory in long formart
 
+### [5-listfilesdigitonly][5-listfilesdigitonly]
+this displays the current directory in long formart users id and  hiden files
+
+
 
