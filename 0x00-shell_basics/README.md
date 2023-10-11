@@ -19,5 +19,9 @@ this creates a directory   by the name firstdirectort in the tmp directory
 ### [7-movethatfile][7-movethatfile]
 this moves betty file to my_first_directory
 
+### [8-firstdelete][8-firstdelete]
+this script deletes betty from my_first_directory
 
+### [9-firstdirdeletion][9-firstdirdeletion]
+this is a script to delete dir my_first_directory from tmp
 
