@@ -25,3 +25,6 @@ this script deletes betty from my_first_directory
 ### [9-firstdirdeletion][9-firstdirdeletion]
 this is a script to delete dir my_first_directory from tmp
 
+### [10-back][10-back]
+ a script that changes the working directory to the previous one.
+
