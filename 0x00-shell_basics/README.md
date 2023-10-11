@@ -13,5 +13,8 @@ this displays the current directory in long formart
 ### [5-listfilesdigitonly][5-listfilesdigitonly]
 this displays the current directory in long formart users id and  hiden files
 
+### [6-firstdirectory] [6-firstdirectory]
+this creates a directory   by the name firstdirectort in the tmp directory
+
 
 
