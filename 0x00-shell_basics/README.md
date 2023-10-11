@@ -28,3 +28,5 @@ this is a script to delete dir my_first_directory from tmp
 ### [10-back][10-back]
  a script that changes the working directory to the previous one.
 
+### [11-lists][11-lists]
+a script that lists all files , which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
