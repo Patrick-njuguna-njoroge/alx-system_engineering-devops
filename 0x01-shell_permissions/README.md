@@ -13,4 +13,10 @@ a script to change the current usser to ussser betty
 ### 4-empty
 "a script that prints an empty file hello"
 
+### 5-execute
+"a script that adds execution command to file hello"
+
+
+
+
 
