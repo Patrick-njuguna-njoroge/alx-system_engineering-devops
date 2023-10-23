@@ -31,5 +31,8 @@ a script to change the current usser to ussser betty
 ### 10-mirror_permissions
 "a shell script to put permision of hello as of olleh file"
 
+### 11-directories_permissions
+"a shell script to add execution command to allsubdirectory in current directiry"
+
 
 
