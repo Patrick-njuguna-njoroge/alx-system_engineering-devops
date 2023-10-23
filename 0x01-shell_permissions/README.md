@@ -34,5 +34,8 @@ a script to change the current usser to ussser betty
 ### 11-directories_permissions
 "a shell script to add execution command to allsubdirectory in current directiry"
 
+### 12-directory_permissions
+"a script that creates directory my_dir with permision 751"
+
 
 
