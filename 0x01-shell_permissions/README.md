@@ -16,6 +16,9 @@ a script to change the current usser to ussser betty
 ### 5-execute
 "a script that adds execution command to file hello"
 
+### 6-multiple_permissions
+"a script that adds multiple permision to the file hello"
+
 
 
 
