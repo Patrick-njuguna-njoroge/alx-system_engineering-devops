@@ -28,6 +28,8 @@ a script to change the current usser to ussser betty
 ### 9-John_Doe
 "a script that adds permision 753 to file hello"
 
+### 10-mirror_permissions
+"a shell script to put permision of hello as of olleh file"
 
 
 
