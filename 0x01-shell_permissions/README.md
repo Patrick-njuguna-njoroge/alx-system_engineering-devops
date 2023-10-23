@@ -19,6 +19,8 @@ a script to change the current usser to ussser betty
 ### 6-multiple_permissions
 "a script that adds multiple permision to the file hello"
 
+### 7-everybody
+"a script that adds execution to all users of hello"
 
 
 
