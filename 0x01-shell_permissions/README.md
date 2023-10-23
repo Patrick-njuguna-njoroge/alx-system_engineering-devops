@@ -25,6 +25,9 @@ a script to change the current usser to ussser betty
 ### 8-James_Bond
 "a script that adds all permision to only  others users"
 
+### 9-John_Doe
+"a script that adds permision 753 to file hello"
+
 
 
 
