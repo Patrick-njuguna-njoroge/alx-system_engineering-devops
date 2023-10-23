@@ -22,6 +22,9 @@ a script to change the current usser to ussser betty
 ### 7-everybody
 "a script that adds execution to all users of hello"
 
+### 8-James_Bond
+"a script that adds all permision to only  others users"
+
 
 
 
