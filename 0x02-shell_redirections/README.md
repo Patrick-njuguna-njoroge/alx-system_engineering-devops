@@ -9,4 +9,5 @@
 ### 2-hellofile
 "a script that reads the contents of /etc/passwd using cat command"
 
-
+### 3-twofiles
+"a sript that display the contents of file /etc/passwd and /etc/hosts"
