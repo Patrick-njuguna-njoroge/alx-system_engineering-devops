@@ -37,5 +37,6 @@ a script to change the current usser to ussser betty
 ### 12-directory_permissions
 "a script that creates directory my_dir with permision 751"
 
-
+### 13-change_group
+"a script that changes the group of hello to school"
 
